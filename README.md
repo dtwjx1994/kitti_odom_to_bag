@@ -1,6 +1,6 @@
 # KITTI Odometry to ROSbag
 
-this python tool is aimed to solve the problem that convert kitti odometry to rosbag.Although there is some tool to convert kitti raw data to rosbag. And this tool is developing.we can convert point cloud and pose information to rosbag and pose is convert to tf message.
+This python tool is aimed to solve the problem that convert kitti odometry to rosbag.Although there is some tool to convert kitti raw data to rosbag. And this tool is developing.we can convert point cloud and pose information to rosbag and pose is convert to tf message.
 
 ​     这个python工具用来将下载的Kitti数据集中的Velodyne Points 转为rosbag，并且可以将其中的位姿信息通过tf的形式发布出来。
 
